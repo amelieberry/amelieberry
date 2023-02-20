@@ -5,9 +5,9 @@ I used to write content for websites and promote them, then I did what a gamer d
 - Read more about me on my [porfolio](https://amelieberry.github.io/portfolio-website/)
 - Say hello on [LinkedIn](https://www.linkedin.com/in/amelie-berry/) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amelieberry&exclude_repo=learning-area,odin-recipes,css-exercises,etch-a-sketch&theme=dracula)](https://github.com/amelieberry/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amelieberry&exclude_repo=learning-area,odin-recipes,css-exercises,etch-a-sketch&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amelieberry&show_icons=true&theme=dracula)](https://github.com/amelieberry/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amelieberry&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **amelieberry/amelieberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
