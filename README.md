@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Amelie,
+
+I used to write content for websites and promote them, then I did what a gamer does when playing an open world RPG and went "Ooh, what's this?". I am now on a new and exciting career path as a web developer.
+
+- Read more about me on my [porfolio](https://amelieberry.github.io/portfolio-website/)
+- Say hello on [LinkedIn](https://www.linkedin.com/in/amelie-berry/) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amelieberry&exclude_repo=learning-area,odin-recipes,css-exercises,etch-a-sketch&theme=dracula)](https://github.com/amelieberry/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amelieberry&show_icons=true&theme=dracula)](https://github.com/amelieberry/github-readme-stats)
 
 <!--
 **amelieberry/amelieberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
