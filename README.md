@@ -14,9 +14,7 @@ I used to write content for websites and promote them. That's before I found how
 - Test-driven development with Jest and Enzyme as well as Continuous Integration and Continuous Delivery
 - Agile project management
 
-
-- Read more about me on my [porfolio](https://amelieberry.github.io/portfolio-website/)
-- Say hello on [LinkedIn](https://www.linkedin.com/in/amelie-berry/) 
+You can find out more about me on my [porfolio](https://amelieberry.github.io/portfolio-website/) and say hello on [LinkedIn](https://www.linkedin.com/in/amelie-berry/) 
 
 <!--
 **amelieberry/amelieberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
